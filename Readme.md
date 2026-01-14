@@ -25,6 +25,7 @@ L'objectif principal est de fournir une architecture **propre, sécurisée, main
 
 ### Flux de requête
 
+
 public/index.php
 ↓
 Router
